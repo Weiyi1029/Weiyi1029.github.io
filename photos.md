@@ -81,5 +81,13 @@ title: Photos
       <img src="{{ '/assets/images/gallery/schliersee-germany-2025.jpg' | relative_url }}" alt="Schliersee, Germany · 2025">
       <figcaption>Schliersee, Germany · 2025</figcaption>
     </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/looking-over-atlantic-porto-portugal-2026.jpg' | relative_url }}" alt="Looking Out over the Atlantic Ocean, Porto, Portugal · 2026">
+      <figcaption>Looking Out over the Atlantic Ocean, Porto, Portugal · 2026</figcaption>
+    </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/lake-ladoga-saint-petersburg-russia-2016.jpg' | relative_url }}" alt="Lake Ladoga, Saint Petersburg, Russia · 2016">
+      <figcaption>Lake Ladoga, Saint Petersburg, Russia · 2016</figcaption>
+    </figure>
   </div>
 </div></section>
