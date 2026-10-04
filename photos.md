@@ -4,6 +4,7 @@ nav: photos
 title: Photos
 ---
 <section class="section first-section"><div class="container">
+  <p class="lead" style="margin: 0 0 38px; max-width: 760px;">I have a deep love for travel and have had the opportunity to visit many countries and regions around the world. Along the way, I enjoy discovering different landscapes, cultures, and histories. Below is a selection of photographs from some of these journeys.</p>
   <div class="photo-square-grid">
     <figure class="photo-square-card">
       <img src="{{ '/assets/images/gallery/cambridge-uk-2018.jpg' | relative_url }}" alt="University of Cambridge, United Kingdom · 2018">
