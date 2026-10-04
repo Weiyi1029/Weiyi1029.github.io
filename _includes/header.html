@@ -1,0 +1,15 @@
+<header class="site-header">
+  <div class="nav-wrap container">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Dr. Weiyi Pan home">Dr. Weiyi Pan</a>
+    <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}" {% if page.nav == 'home' %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/cv/' | relative_url }}" {% if page.nav == 'cv' %}class="active"{% endif %}>CV</a>
+      <a href="{{ '/research/' | relative_url }}" {% if page.nav == 'research' %}class="active"{% endif %}>Research</a>
+      <a href="{{ '/publications/' | relative_url }}" {% if page.nav == 'publications' %}class="active"{% endif %}>Publications</a>
+      <a href="{{ '/photos/' | relative_url }}" {% if page.nav == 'photos' %}class="active"{% endif %}>Photos</a>
+    </nav>
+  </div>
+</header>

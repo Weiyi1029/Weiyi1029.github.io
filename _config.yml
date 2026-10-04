@@ -1,0 +1,16 @@
+title: "Dr. Weiyi Pan"
+description: "Personal academic website of Dr. Weiyi Pan, theoretical condensed matter physicist and postdoctoral researcher at the University of Regensburg."
+url: "https://weiyi1029.github.io"
+baseurl: ""
+author:
+  name: "Dr. Weiyi Pan"
+  email: "weiyi.pan@physik.uni-regensburg.de"
+  github: "Weiyi1029"
+  scholar: "https://scholar.google.com/citations?hl=en&user=Z3-fZ5cAAAAJ"
+  orcid: "https://orcid.org/0000-0003-3632-8748"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
