@@ -3,3 +3,8 @@
   color: #000000;
   font-weight: 750;
 }
+
+/* Research page: slightly smaller section titles */
+.research-story h2 {
+  font-size: 1.3rem;
+}
