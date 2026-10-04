@@ -23,3 +23,8 @@
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* Home page: smaller name heading */
+.home-bio h1 {
+  font-size: 1.45rem;
+}
