@@ -27,6 +27,9 @@ title: CV
   <div class="cv-section">
     <h2>Presentations & talks</h2>
     <ul class="talk-list">
+      <li>Oral presentation, JMC 2026, Toulouse, France (Oct 2026).</li>
+      <li>Oral presentation, Graphene Week 2026, Porto, Portugal (Sep 2026).</li>
+      <li>Poster presentation, DPG 2026, Dresden, Germany (Mar 2026).</li>
       <li>Oral presentation, PFUNT 2024, Hefei, China (Dec 2024) — 2nd-prize award for oral presentation.</li>
       <li>Poster presentation, Conference of Condensed Matter Physics (CCMP) 2024, Liyang, China (Aug 2024).</li>
       <li>Poster presentation, International Conference on Magnetism 2024, Bologna, Italy (Jul 2024).</li>
