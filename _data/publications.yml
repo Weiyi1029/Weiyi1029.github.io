@@ -15,12 +15,14 @@
   authors: "Weiyi Pan, Xinyuan Jiang, and Jaroslav Fabian"
   venue: "Physical Review B 114, 115135 (2026)"
   url: "https://doi.org/10.1103/np2g-86h3"
+  corresponding: true
 
 - year: 2026
   title: "Magnetization-dependent and stacking-tunable Edelstein effect in the two-dimensional magnet 2H-VTe₂"
   authors: "Weiyi Pan and Jaroslav Fabian"
   venue: "Physical Review B 114, 125129 (2026)"
   url: "https://doi.org/10.1103/48gx-cpg2"
+  corresponding: true
 
 - year: 2026
   title: "Long-range magnetoelectricity in type-II multiferroic NiI₂"
@@ -39,36 +41,42 @@
   authors: "Weiyi Pan and Jaroslav Fabian"
   venue: "Physical Review B 113, 165140 (2026)"
   url: "https://doi.org/10.1103/j5s5-m7j5"
+  corresponding: true
 
 - year: 2026
   title: "Tunable Chern insulator states with coexisting magnonic and electronic topology in two-dimensional honeycomb Kitaev ferromagnets"
   authors: "Haozhou Cai, Zhiming Xu, Jian Wu, and Weiyi Pan"
   venue: "Physical Review B 113, 134413 (2026)"
   url: "https://doi.org/10.1103/w446-987t"
+  corresponding: true
 
 - year: 2026
   title: "Switching between skyrmions and Yoshimori spin spirals via Li absorption in Janus magnets"
   authors: "Xinyuan Jiang, Bowen Hao, Jian Wu, and Weiyi Pan"
   venue: "Physical Review B 113, 134404 (2026)"
   url: "https://doi.org/10.1103/n4pl-4ht8"
+  corresponding: true
 
 - year: 2026
   title: "Microscopic Evidence of Spin-Driven Multiferroicity and Topological Spin Textures in Monolayer NiI₂"
   authors: "Haitao Wang, Tianxing Jiang, Weiyi Pan, Xu Wang, Hongyu Wang, Junchao Tian, Lianchuang Li, Dongming Zhao, Qingle Zhang, Chenxi Wang, Ying Yang, Hongjun Xiang, Changsong Xu, Donglai Feng, and Tong Zhang"
   venue: "Physical Review Letters 136, 026402 (2026)"
   url: "https://doi.org/10.1103/4hzc-bm2f"
+  cofirst: true
 
 - year: 2024
   title: "Chiral magnetism in lithium-decorated monolayer CrTe₂: Interplay between Dzyaloshinskii-Moriya interaction and higher-order interactions"
   authors: "Weiyi Pan, Changsong Xu, Xueyang Li, Zhiming Xu, Boyu Liu, Bing-Lin Gu, and Wenhui Duan"
-  venue: "Physical Review B 109, 214415 (2024)"
-  url: "https://doi.org/10.1103/PhysRevB.109.214415"
+  venue: "Physical Review B 109, 214405 (2024)"
+  url: "https://doi.org/10.1103/PhysRevB.109.214405"
 
 - year: 2024
   title: "Strain-Induced Intrinsic Antiferromagnetic Skyrmions in Two-Dimensional Janus Magnets"
   authors: "Weiyi Pan, Shilei Ji, and Zhiming Xu"
   venue: "Physical Review B 110, 144408 (2024)"
   url: "https://doi.org/10.1103/PhysRevB.110.144408"
+  corresponding: true
+  cofirst: true
 
 - year: 2024
   title: "Valley-contrasting transport of the coupling between spin and orbital angular momentum in ferromagnetic transition metal dichalcogenides"
@@ -87,3 +95,4 @@
   authors: "Weiyi Pan"
   venue: "Physical Review B 106, 125122 (2022)"
   url: "https://doi.org/10.1103/PhysRevB.106.125122"
+  corresponding: true
