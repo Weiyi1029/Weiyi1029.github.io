@@ -24,7 +24,7 @@ title: Home
       <div class="home-profile-links" aria-label="Academic profiles">
         <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
         <a href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID ↗</a>
-        <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub ↗</a>
+        <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
         <a href="mailto:{{ site.author.email }}">Email ↗</a>
       </div>
     </div>
