@@ -39,7 +39,7 @@ title: Photos
       <figcaption>Bali, Indonesia · 2024</figcaption>
     </figure>
     <figure class="photo-square-card">
-      <img src="{{ '/assets/images/gallery/barcelona-spain-2026.jpg' | relative_url }}" alt="Barcelona, Spain · 2026">
+      <img src="{{ '/assets/images/gallery/barcelona-spain-2026.jpg' | relative_url }}" alt="Tossa de Mar, Spain · 2026">
       <figcaption>Barcelona, Spain · 2026</figcaption>
     </figure>
     <figure class="photo-square-card">
