@@ -1,0 +1,5 @@
+/* Small visual overrides */
+.pub-authors strong {
+  color: #000000;
+  font-weight: 750;
+}
