@@ -82,7 +82,7 @@ title: Photos
 
     <figure class="photo-square-card">
       <img src="{{ '/assets/images/gallery/barcelona-spain-2026.jpg' | relative_url }}" alt="Tossa de Mar, Spain · 2026">
-      <figcaption>Barcelona, Spain · 2026</figcaption>
+      <figcaption>Tossa de Mar, Spain · 2026</figcaption>
     </figure>
     <figure class="photo-square-card">
       <img src="{{ '/assets/images/gallery/sagrada-familia-barcelona-spain-2026.jpg' | relative_url }}" alt="Sagrada Família, Barcelona, Spain · 2026">
