@@ -8,3 +8,18 @@
 .research-story h2 {
   font-size: 1.4rem;
 }
+
+/* Research page: compact selected references */
+.research-references {
+  margin-top: 14px !important;
+  font-size: .9rem;
+  line-height: 1.6;
+}
+.research-references span {
+  font-weight: 650;
+  color: var(--text);
+}
+.research-references a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
