@@ -161,7 +161,9 @@ h1 { font-size: clamp(3rem, 7vw, 5.8rem); line-height:.98; letter-spacing:-.055e
   box-shadow: var(--shadow);
 }
 .home-bio h1 {
-  font-size: clamp(2.35rem, 4.2vw, 3.75rem);
+  font-size: clamp(1.6rem, 2.7vw, 2.2rem);
+  line-height: 1.2;
+  letter-spacing: -.025em;
   margin-bottom: 30px;
 }
 .bio-copy {
@@ -212,15 +214,16 @@ h1 { font-size: clamp(3rem, 7vw, 5.8rem); line-height:.98; letter-spacing:-.055e
   .bio-copy p { font-size: 1rem; line-height: 1.75; }
 }
 
-
 /* Photos page: square travel gallery */
 .photo-square-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 26px 22px;
+  align-items: start;
 }
 .photo-square-card {
   margin: 0;
+  min-width: 0;
 }
 .photo-square-card img {
   width: 100%;
@@ -232,22 +235,30 @@ h1 { font-size: clamp(3rem, 7vw, 5.8rem); line-height:.98; letter-spacing:-.055e
   box-shadow: 0 10px 28px rgba(24, 32, 48, 0.06);
 }
 .photo-square-card figcaption {
-  margin-top: 11px;
+  min-height: 3.1em;
+  margin-top: 10px;
+  padding: 0 4px;
   text-align: center;
   color: var(--muted);
   font-size: .94rem;
   line-height: 1.5;
 }
-@media (max-width: 700px) {
+@media (max-width: 980px) {
   .photo-square-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
-  }
-  .photo-square-card figcaption {
-    font-size: .88rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px 20px;
   }
 }
-
+@media (max-width: 680px) {
+  .photo-square-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px 14px;
+  }
+  .photo-square-card figcaption {
+    min-height: 0;
+    font-size: .84rem;
+  }
+}
 
 /* Compact page starts after removing large page-hero titles */
 .first-section { padding-top: 62px; }
@@ -271,25 +282,6 @@ h1 { font-size: clamp(3rem, 7vw, 5.8rem); line-height:.98; letter-spacing:-.055e
   text-underline-offset: 3px;
 }
 .footer-identity span a:hover { text-decoration-color: #d6dbe5; }
-
-/* Research image layout: ready for the four figures supplied by the author */
-.research-story.has-image {
-  grid-template-columns: minmax(210px, .78fr) minmax(0, 1.22fr);
-  align-items: start;
-}
-.research-visual { margin: 14px 0 0; }
-.research-visual img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 16px;
-  border: 1px solid var(--line);
-  background: var(--surface);
-}
-@media (max-width: 900px) {
-  .research-story.has-image { grid-template-columns: 1fr; }
-  .research-visual { max-width: 720px; }
-}
 
 /* Research page: three visual research themes */
 .research-list {
@@ -342,46 +334,5 @@ h1 { font-size: clamp(3rem, 7vw, 5.8rem); line-height:.98; letter-spacing:-.055e
   }
   .research-figure {
     max-width: 760px;
-  }
-}
-
-
-/* Photos page: fixed multi-column gallery */
-.photo-square-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 26px 22px;
-  align-items: start;
-}
-.photo-square-card {
-  margin: 0;
-  min-width: 0;
-}
-.photo-square-card img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  display: block;
-}
-.photo-square-card figcaption {
-  min-height: 3.1em;
-  margin-top: 10px;
-  padding: 0 4px;
-  text-align: center;
-}
-@media (max-width: 980px) {
-  .photo-square-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 24px 20px;
-  }
-}
-@media (max-width: 680px) {
-  .photo-square-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 20px 14px;
-  }
-  .photo-square-card figcaption {
-    min-height: 0;
-    font-size: .84rem;
   }
 }
