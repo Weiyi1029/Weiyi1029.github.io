@@ -110,5 +110,10 @@ title: Photos
       <img src="{{ '/assets/images/gallery/neuschwanstein-castle-fussen-germany-2026.jpg' | relative_url }}" alt="Neuschwanstein Castle, Füssen, Germany · 2026">
       <figcaption>Neuschwanstein Castle, Füssen, Germany · 2026</figcaption>
     </figure>
+<figure class="photo-square-card">
+  <img src="{{ '/assets/images/gallery/Porto-Portugal -2026.jpg' | relative_url }}"
+       alt="Porto, Portugal · 2026">
+  <figcaption>Porto, Portugal · 2026</figcaption>
+</figure>
   </div>
 </div></section>
