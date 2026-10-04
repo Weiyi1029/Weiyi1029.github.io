@@ -90,5 +90,25 @@ title: Photos
       <img src="{{ '/assets/images/gallery/lake-ladoga-saint-petersburg-russia-2016.jpg' | relative_url }}" alt="Lake Ladoga, Saint Petersburg, Russia · 2016">
       <figcaption>Lake Ladoga, Saint Petersburg, Russia · 2016</figcaption>
     </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/berchtesgaden-germany-2026.jpg' | relative_url }}" alt="Berchtesgaden, Germany · 2026">
+      <figcaption>Berchtesgaden, Germany · 2026</figcaption>
+    </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/werner-heisenberg-grave-munich-germany-2025.jpg' | relative_url }}" alt="Werner Heisenberg’s Grave, Munich, Germany · 2025">
+      <figcaption>Werner Heisenberg’s Grave, Munich, Germany · 2025</figcaption>
+    </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/obertraubling-germany-2025.jpg' | relative_url }}" alt="Obertraubling, Germany · 2025">
+      <figcaption>Obertraubling, Germany · 2025</figcaption>
+    </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/sagrada-familia-barcelona-spain-2026.jpg' | relative_url }}" alt="Sagrada Família, Barcelona, Spain · 2026">
+      <figcaption>Sagrada Família, Barcelona, Spain · 2026</figcaption>
+    </figure>
+    <figure class="photo-square-card">
+      <img src="{{ '/assets/images/gallery/neuschwanstein-castle-fussen-germany-2026.jpg' | relative_url }}" alt="Neuschwanstein Castle, Füssen, Germany · 2026">
+      <figcaption>Neuschwanstein Castle, Füssen, Germany · 2026</figcaption>
+    </figure>
   </div>
 </div></section>
