@@ -8,9 +8,9 @@ title: CV
   <div class="cv-section">
     <h2>Academic career</h2>
     <div class="timeline">
-      <div class="timeline-item"><div class="timeline-time">2025.08 — present</div><div><h3>Postdoctoral Researcher · University of Regensburg</h3><p>Research theme: theoretical spintronics.</p><p>Supervisor: <a href="https://www.uni-regensburg.de/en/physics/research/wg/fabian-group/team/jaroslav-fabian" target="_blank" rel="noopener">Prof. Dr. Jaroslav Fabian</a>.</p></div></div>
-      <div class="timeline-item"><div class="timeline-time">2020.09 — 2025.06</div><div><h3>Ph.D. in Physics · Tsinghua University</h3><p>Thesis: <em>Theoretical study of two-dimensional magnets: From magnetic interactions to novel spin textures</em>.</p><p>Supervisor: <a href="https://www.phys.tsinghua.edu.cn/phyen/info/1068/1453.htm" target="_blank" rel="noopener">Prof. Dr. Wenhui Duan</a>. Collaborated with <a href="http://www.cps.fudan.edu.cn/xugroup/En/Content/5" target="_blank" rel="noopener">Dr. Changsong Xu</a> at Fudan University.</p></div></div>
-      <div class="timeline-item"><div class="timeline-time">2016.09 — 2020.06</div><div><h3>B.Sc. in Physics · Huazhong University of Science and Technology</h3><p>Wuhan, China.</p></div></div>
+      <div class="timeline-item"><div class="timeline-time">2025.08 — present</div><div><h3>Postdoctoral Researcher · University of Regensburg, Germany</h3><p>Research theme: theoretical spintronics.</p><p>Supervisor: <a href="https://www.uni-regensburg.de/en/physics/research/wg/fabian-group/team/jaroslav-fabian" target="_blank" rel="noopener">Prof. Dr. Jaroslav Fabian</a>.</p></div></div>
+      <div class="timeline-item"><div class="timeline-time">2020.09 — 2025.06</div><div><h3>Ph.D. in Physics · Tsinghua University, China</h3><p>Thesis: <em>Theoretical study of two-dimensional magnets: From magnetic interactions to novel spin textures</em>.</p><p>Supervisor: <a href="https://www.phys.tsinghua.edu.cn/phyen/info/1068/1453.htm" target="_blank" rel="noopener">Prof. Dr. Wenhui Duan</a>. Collaborated with <a href="http://www.cps.fudan.edu.cn/xugroup/En/Content/5" target="_blank" rel="noopener">Dr. Changsong Xu</a> at Fudan University.</p></div></div>
+      <div class="timeline-item"><div class="timeline-time">2016.09 — 2020.06</div><div><h3>B.Sc. in Physics · Huazhong University of Science and Technology, China</h3></div></div>
     </div>
   </div>
 
