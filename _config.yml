@@ -5,7 +5,7 @@ baseurl: ""
 author:
   name: "Dr. Weiyi Pan"
   email: "weiyi.pan@physik.uni-regensburg.de"
-  github: "Weiyi1029"
+  linkedin: "https://www.linkedin.com/in/weiyi-pan-a207191a7/?isSelfProfile=true"
   scholar: "https://scholar.google.com/citations?hl=en&user=Z3-fZ5cAAAAJ"
   orcid: "https://orcid.org/0000-0003-3632-8748"
 markdown: kramdown
